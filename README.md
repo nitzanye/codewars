@@ -1,2 +1,2 @@
 # codewars
-An everyday challenge
+Codewars challenges
